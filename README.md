@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 there I here to help you Anup pandit</h1>
+<h1 align="center">Hi 👋 there I am here to help you Anup pandit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup0711&label=Profile%20views&color=0e75b6&style=flat" alt="anup0711" /> </p>
